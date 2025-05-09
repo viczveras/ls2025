@@ -1,4 +1,3 @@
-// Importa as funções de teste do Node e o módulo assert para as asserções
 import { describe, it } from 'node:test';
 import assert from 'node:assert';
 
